@@ -2,7 +2,9 @@
 
 A state-based security system built on the Arduino UNO (Elegoo kit) that integrates a **membrane keypad**, **IR remote**, and **RFID-RC522 reader** — with a **Python GUI** for real-time tag logging.
 
-[![Demo Video](https://img.youtube.com/vi/kmoXMjx6kbg/maxresdefault.jpg)](https://youtu.be/kmoXMjx6kbg)
+[![Demo](https://img.youtube.com/vi/kmoXMjx6kbg/maxresdefault.jpg)](https://youtu.be/kmoXMjx6kbg)
+
+[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/kmoXMjx6kbg)
 
 ---
 
